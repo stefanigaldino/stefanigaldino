@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm a fullsatck developer at [@avanade](https://www.avanade.com.br/).
+I'm a fullsatck developer
 
 ## Some of my skills:
 
