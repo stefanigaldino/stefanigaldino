@@ -29,7 +29,7 @@ I'm a Full Stack Dev
 
 ## About me:
 
-🔭 I’m currently working on projects at Spring Wireless Brasil.
+🔭 I’m currently working on projects at Spring Smart Solutions Brasil.
 🌱 I’m currently learning Vue.js 3 to enhance my web development skills.
 👯 I’m looking to collaborate on innovative web development projects or open-source contributions.
 🤔 I’m looking for help with mastering advanced Vue.js concepts.
