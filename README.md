@@ -21,7 +21,11 @@ I'm a Full Stack Dev
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Csharp Badge](https://img.shields.io/badge/-C%23-1572C7?style=for-the-badge&logo=C%23&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
+## My Certifications:
 ![DP-900 Badge](https://img.shields.io/badge/DP--900-Certified-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
+![AI-900 Badge](https://img.shields.io/badge/AI--900-Certified-FFD700?style=for-the-badge&logo=microsoft&logoColor=white)
+
 
 
 
