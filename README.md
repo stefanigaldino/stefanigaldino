@@ -27,12 +27,7 @@ I'm a Full Stack Dev
 ![AI-900 Badge](https://img.shields.io/badge/AI--900-Certified-FFD700?style=for-the-badge&logo=microsoft&logoColor=white)
 
 
-
-
-<!--
-**stefanigaldino/stefanigaldino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About me:
 
 🔭 I’m currently working on projects at Spring Wireless Brasil.
 🌱 I’m currently learning Vue.js 3 to enhance my web development skills.
@@ -42,4 +37,4 @@ Here are some ideas to get you started:
 📫 How to reach me: stefanijuris@hotmail.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I'm a coffee enthusiast and have tried more than 30 different coffee blends from around the world.
--->
+
