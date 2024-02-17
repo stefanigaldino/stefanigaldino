@@ -8,7 +8,7 @@
 
 
 ## About me
-I'm a fullstack developer
+I'm a Full Stack Dev
 
 ## Some of my skills:
 
