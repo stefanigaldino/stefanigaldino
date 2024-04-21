@@ -21,7 +21,7 @@ I'm a Full Stack Dev
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Csharp Badge](https://img.shields.io/badge/-C%23-1572C7?style=for-the-badge&logo=C%23&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![.Nuxt.js Badge](https://img.shields.io/badge/Nuxt.js-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+
 
 ## My Certifications:
 ![DP-900 Badge](https://img.shields.io/badge/DP--900-Certified-008AD7?style=for-the-badge&logo=microsoft&logoColor=white)
@@ -34,7 +34,7 @@ I'm a Full Stack Dev
 🌱 I’m learning Vue.js 3 to enhance my web development skills.
 👯 I’m looking to collaborate on innovative web development projects or open-source contributions.
 🤔 I’m looking for help with mastering advanced in my hard skill concepts.
-💬 Ask me about my experience in wireless technology or any questions related to Full Stack Dev.
+💬 Ask me about my experience in technology or any questions related to Full Stack Dev.
 📫 How to reach me: stefanijuris@hotmail.com
 😄 Pronouns: She/Her
 ⚡ Fun fact: I'm a coffee enthusiast and have tried more than 30 different blends coffees in to around the world.
