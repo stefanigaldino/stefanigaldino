@@ -31,9 +31,9 @@ I'm a Full Stack Dev
 ## About me:
 
 🔭 I’m currently working on projects at Spring Smart Solutions Brasil.
-🌱 I’m currently learning Vue.js 3 to enhance my web development skills.
+🌱 I’m learning Vue.js 3 to enhance my web development skills.
 👯 I’m looking to collaborate on innovative web development projects or open-source contributions.
-🤔 I’m looking for help with mastering advanced Vue.js concepts.
+🤔 I’m looking for help with mastering advanced my hard skill concepts.
 💬 Ask me about my experience in wireless technology or any questions related to Full Stack Dev.
 📫 How to reach me: stefanijuris@hotmail.com
 😄 Pronouns: She/Her
