@@ -21,7 +21,8 @@ I'm a Full Stack Dev
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Csharp Badge](https://img.shields.io/badge/-C%23-1572C7?style=for-the-badge&logo=C%23&logoColor=white)
 ![.NET Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-https://img.shields.io/endpoint?url=https://badge-api.vercel.app/api/nuxtjs
+![Vercel Badge](https://img.shields.io/badge/Vercel-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+(https://img.shields.io/endpoint?url=https://badge-api.vercel.app/api/nuxtjs)
 ![Vercel Badge](https://img.shields.io/endpoint?url=https://badge-api.vercel.app/api/nuxtjs&style=for-the-badge&logo=nuxt.js&logoColor=white)
 
 
