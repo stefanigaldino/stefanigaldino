@@ -37,5 +37,5 @@ I'm a Full Stack Dev
 💬 Ask me about my experience in wireless technology or any questions related to Full Stack Dev.
 📫 How to reach me: stefanijuris@hotmail.com
 😄 Pronouns: She/Her
-⚡ Fun fact: I'm a coffee enthusiast and have tried more than 30 different coffee blends from around the world.
+⚡ Fun fact: I'm a coffee enthusiast and have tried more than 30 different blends coffees from around the world.
 
